@@ -52,7 +52,7 @@ Global random seed: `21` (Python, NumPy, TensorFlow)
 ```
 
 > **Trained Models & Training Logs:** Hosted on Google Drive due to GitHub's file size limits.
->  [Download Models & Training Logs](https://drive.google.com/your-link-here)
+>  [Download Models & Training Logs](https://drive.google.com/drive/folders/1UBXGualLQ5LbvVndOghFGrHD4UD73qp4?usp=drive_link)
 
 ---
 
