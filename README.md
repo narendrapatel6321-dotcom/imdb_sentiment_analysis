@@ -37,6 +37,7 @@ All models use the **Adam optimizer** and **binary cross-entropy loss**, with ea
 
 Global random seed: `21` (Python, NumPy, TensorFlow)
 
+
 ---
 
 ## Repository Structure
@@ -45,12 +46,13 @@ Global random seed: `21` (Python, NumPy, TensorFlow)
 ├── Sentiment_Analysis_IMDB.ipynb       # Main notebook
 ├── helper.py                           # Utility functions (plot_training_curve, evaluate_model)
 │
-├── models/                             # Saved .keras models for all 8 experiments
-├── training_logs/                      # CSV training logs for all 8 experiments
 ├── plots/                              # Training curves and confusion matrices (16 plots total)
 │
 └── README.md
 ```
+
+> **Trained Models & Training Logs:** Hosted on Google Drive due to GitHub's file size limits.
+>  [Download Models & Training Logs](https://drive.google.com/your-link-here)
 
 ---
 
